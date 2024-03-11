@@ -1,0 +1,6 @@
+{
+    "remix-light.autoCompile": true,
+    "solidity.compileUsingRemoteVersion": "v0.7.4+commit.3f05b770",
+    "solidity.compileUsingLocalVersion": "c:\\Users\\91856\\Desktop\\solidity work\\soljson-v0.7.4+commit.3f05b770.js",
+    "solidity.defaultCompiler": "localFile"
+}
