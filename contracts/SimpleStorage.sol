@@ -41,5 +41,9 @@ contract SimpleStorage {
         return bool(a);
     }
 
+}
+
+
+contract SimpleStorage2 {
 
 }
