@@ -24,7 +24,7 @@ contract SimpleStorage {
 
     mapping(string => uint256) public NametoNumber;
     
-    function Store(uint256 _favoriteNumber) public virtual  {
+    function Store(uint256 _favoriteNumber) virtual  public {
         favoriteNumber = _favoriteNumber;
     }
     
@@ -41,9 +41,5 @@ contract SimpleStorage {
         return bool(a);
     }
 
-}
-
-
-contract SimpleStorage2 {
 
 }
